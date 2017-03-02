@@ -1,1 +1,1 @@
-cat file.txt
+type file.txt | more
