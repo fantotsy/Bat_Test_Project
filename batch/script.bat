@@ -1,1 +1,2 @@
-type file.txt | more
+start /wait TestScript.exe
+type file.txt
